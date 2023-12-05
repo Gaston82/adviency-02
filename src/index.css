@@ -1,4 +1,8 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
 .container {
-  width: 600px;
+  max-width: 90%;
   margin: 0 auto;
+  text-align: center;
 }
