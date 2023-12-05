@@ -11,7 +11,7 @@ function App() {
 
   return (
     <main className="container">
-      <h1>Adviency 02</h1>
+      <h1>Regalos</h1>
       <section>
         {gifts.map((gift) => (
           <p key={gift.id}>{gift.name}</p>
